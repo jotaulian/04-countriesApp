@@ -1,6 +1,19 @@
 # CountriesApp
 
-Check  [Live preview]([https://angular.io/cli](https://storied-shortbread-f8db63.netlify.app/countries/by-capital)).
+Check  [Live preview](https://storied-shortbread-f8db63.netlify.app/countries/by-capital).
+
+**Here is a brief list of the fundamental Angular topics used in this project**:
+- Routes
+- RouterLink and RouterLinkActive
+- Specialized components
+- DebounceTime
+- Inputs
+- SwitchMaps
+- API consumption -> [restcountries](https://restcountries.com/)
+- Data typing
+- Application menu
+- And more
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 

@@ -1,6 +1,6 @@
 # CountriesApp
 
-Check  [Live preview](https://storied-shortbread-f8db63.netlify.app/countries/by-capital).
+Check  [Live preview](https://storied-shortbread-f8db63.netlify.app).
 
 **Here is a brief list of the fundamental Angular topics used in this project**:
 - Routes

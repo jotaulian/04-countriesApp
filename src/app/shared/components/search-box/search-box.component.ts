@@ -29,16 +29,16 @@ export class SearchBoxComponent implements OnInit, OnDestroy{
       })
   }
 
-  ngOnDestroy(): void {
-    this.debouncerSubs?.unsubscribe();
-  }
-
   searchTerm(term: string):void{
     this.onValue.emit(term);
   }
 
   onKeyPressed(searchTerm: string){
     this.debouncer.next(searchTerm);
+  }
+
+    ngOnDestroy(): void {
+    this.debouncerSubs?.unsubscribe();
   }
 
 }

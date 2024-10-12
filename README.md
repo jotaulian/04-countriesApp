@@ -1,5 +1,7 @@
 # CountriesApp
 
+Check  [Live preview]([https://angular.io/cli](https://storied-shortbread-f8db63.netlify.app/countries/by-capital)).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
